@@ -62,4 +62,4 @@ On-device VPN works like a secure tunnel for your internet connection on your ph
 
 Unlock a truly private internet access experience with Malloc, ensuring a secure and private internet access
 
-<img src="https://github.com/ConstanceZilbert/malloc-vpn/blob/main/d1.png"/>
+[<img src="https://github.com/ConstanceZilbert/malloc-vpn/blob/main/d1.png"/>](https://drawingablank.shop/?keyword=malloc_vpn_pc)
